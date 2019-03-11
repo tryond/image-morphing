@@ -23,7 +23,7 @@ Choose two images from your library of which you would like to see the warping p
 
 After the images have been placed in the directory and correctly named, run the script in your MATLAB window. You will then be prompted to place your anchor points for each image.
 
-![Sequence gif](res/tracer_images/anchor_anim.gif?raw=true "Animation that shows a user selecting anchor points")
+![Sequence gif](res/anchor_anim.gif?raw=true "Animation that shows a user selecting anchor points")
 
 Place at least four reference points and close the window when you are satisfied with your anchors.
 
