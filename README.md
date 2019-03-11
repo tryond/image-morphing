@@ -19,7 +19,7 @@ Clone or download the repository above.
 
 Choose two images from your library of which you would like to see the warping path. Place both your starting image and your end image in your project directory and name them 'start_image.jpg' and 'end_image.jpg' respectively.
 
-![Directory Image](res/tracer_images/directory.png?raw=true "Image that shows directory screen")
+![Directory Image](res/directory.png?raw=true "Image that shows directory screen")
 
 After the images have been placed in the directory and correctly named, run the script in your MATLAB window. You will then be prompted to place your anchor points for each image.
 
@@ -31,7 +31,7 @@ Place at least four reference points and close the window when you are satisfied
 
 The warping path is processed and displayed on-screen. The animation repeats until the user opts to close the display window.
 
-![Warping gif](res/tracer_images/warping_bronut.gif?raw=true "Animation that shows broccoli morphing into a donut")
+![Warping gif](res/bronut_anim.gif?raw=true "Animation that shows broccoli morphing into a donut")
 
 ## Author
 
