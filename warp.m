@@ -1,5 +1,3 @@
-% Submitter: tryond(tryon, daniel) 20621204
-
 function I_target = warp(I_source,pts_source,pts_target,tri)
 %
 % I_source : color source image  (HxWx3)

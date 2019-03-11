@@ -1,12 +1,10 @@
-% Submitter: tryond(tryon, daniel) 20621204
-
 % Morphing Script
 
 %% Load Images
 
 % load in source and target images
-I1 = im2double(imread('broc.jpg'));
-I2 = im2double(imread('donuts.jpg'));
+I1 = im2double(imread('start_image.jpg'));
+I2 = im2double(imread('end_image.jpg'));
     
 %% Choose First Correspondences
 
@@ -15,12 +13,8 @@ I2 = im2double(imread('donuts.jpg'));
 % I2: pts_img2
 cpselect(I1, I2); 
 
-
-% save trumputin.mat pts_img1 pts_img2
-% load trumputin.mat
-
-save bronuts.mat pts_img1 pts_img2
-% load bronuts.mat
+% save ref_points.mat pts_img1 pts_img2
+% load ref_points.mat
 
 %% Add corners to point matrices
 
