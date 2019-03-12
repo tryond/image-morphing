@@ -19,7 +19,7 @@ Clone or download the repository above.
 
 Choose two images from your library of which you would like to see the warping path. Place both your starting image and your end image in your project directory and name them 'start_image.jpg' and 'end_image.jpg' respectively.
 
-![Directory Image](res/directory.png?raw=true "Image that shows directory screen")
+![Directory Image](res/directory_2.png?raw=true "Image that shows directory screen")
 
 After the images have been placed in the directory and correctly named, run the script in your MATLAB window. You will then be prompted to place your anchor points for each image.
 
